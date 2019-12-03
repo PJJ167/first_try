@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  PID: 1
+  crewnum: 1
+  assigned_equipment: MyString
+  hours: 1
+
+two:
+  PID: 1
+  crewnum: 1
+  assigned_equipment: MyString
+  hours: 1
